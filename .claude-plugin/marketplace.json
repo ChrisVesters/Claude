@@ -1,0 +1,16 @@
+{
+  "name": "cv-tools",
+  "owner": { "name": "Chris Vesters" },
+  "plugins": [
+    {
+      "name": "dev-agents",
+      "source": "./plugins/dev-agents",
+      "description": "Functional analyst, technical analyst, developer and quality assurance agents"
+    },
+    {
+      "name": "dev-workflow",
+      "source": "./plugins/dev-workflow",
+      "description": "Pairing and feature-workflow skills (/feature uses the dev-agents plugin)"
+    }
+  ]
+}

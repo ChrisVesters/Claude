@@ -1,0 +1,6 @@
+{
+  "name": "dev-agents",
+  "version": "0.1.0",
+  "description": "Functional analyst, technical analyst, developer and quality assurance agents that follow the project's CLAUDE.md",
+  "author": { "name": "Chris Vesters" }
+}
